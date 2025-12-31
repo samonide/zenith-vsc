@@ -1,0 +1,76 @@
+{
+    "name": "zenith-theme",
+    "displayName": "Zenith Color Theme",
+    "description": "A soothing, aesthetically pleasing colorscheme with soft pastels - designed for comfortable long coding sessions",
+    "version": "3.0.0",
+    "publisher": "TheSamonide",
+    "author": {
+        "name": "samonide",
+        "url": "https://github.com/samonide"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/samonide/zenith-vsc"
+    },
+    "homepage": "https://samonide.github.io/zenith/",
+    "bugs": {
+        "url": "https://github.com/samonide/zenith-vsc/issues"
+    },
+    "engines": {
+        "vscode": "^1.70.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "color-theme",
+        "dark theme",
+        "light theme",
+        "pastel",
+        "zenith",
+        "soothing",
+        "aesthetic",
+        "purple",
+        "comfortable"
+    ],
+    "galleryBanner": {
+        "color": "#1e1e2e",
+        "theme": "dark"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Zenith Dusk",
+                "uiTheme": "vs-dark",
+                "path": "./themes/zenith-dusk.json"
+            },
+            {
+                "label": "Zenith Dawn",
+                "uiTheme": "vs",
+                "path": "./themes/zenith-dawn.json"
+            },
+            {
+                "label": "Zenith Twilight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/zenith-twilight.json"
+            },
+            {
+                "label": "Zenith Forest",
+                "uiTheme": "vs-dark",
+                "path": "./themes/zenith-forest.json"
+            },
+            {
+                "label": "Zenith Retro",
+                "uiTheme": "vs-dark",
+                "path": "./themes/zenith-retro.json"
+            },
+            {
+                "label": "Zenith Ocean",
+                "uiTheme": "vs-dark",
+                "path": "./themes/zenith-ocean.json"
+            }
+        ]
+    }
+}
