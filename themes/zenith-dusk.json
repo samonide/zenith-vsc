@@ -286,7 +286,13 @@
         "gitDecoration.untrackedResourceForeground": "#a6e3a1",
         "gitDecoration.ignoredResourceForeground": "#8e8a9e",
         "gitDecoration.conflictingResourceForeground": "#fab387",
-        "gitDecoration.submoduleResourceForeground": "#91d7e3"
+        "gitDecoration.submoduleResourceForeground": "#89dceb",
+        "menu.background": "#3e3e52",
+        "menu.foreground": "#e0dfe8",
+        "menu.selectionBackground": "#4a4a5e",
+        "menu.selectionForeground": "#e0dfe8",
+        "menu.separatorBackground": "#3e3e52",
+        "menu.border": "#00000000"
     },
     "tokenColors": [
         {

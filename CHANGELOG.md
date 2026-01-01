@@ -2,6 +2,13 @@
 
 All notable changes to the Zenith Theme extension will be documented in this file.
 
+## [3.0.2] - 2026-01-01
+
+### Improved
+- Enhanced context menu (right-click menu) styling to match theme colors
+- Added proper theming for menu backgrounds, selection states, and borders
+- Improved visual consistency across all 6 theme variants
+
 ## [3.0.0] - 2025-01-01
 
 ### Added
