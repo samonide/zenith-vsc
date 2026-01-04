@@ -83,7 +83,7 @@
         "list.hoverBackground": "#2a2a3a60",
         "list.inactiveSelectionBackground": "#2a2a3a",
         "panel.background": "#1d1d28",
-        "panel.border": "#00000000",
+        "panel.border": "#bd96f515",
         "panelTitle.activeBorder": "#00000000",
         "panelTitle.activeForeground": "#c8c5d8",
         "panelTitle.inactiveForeground": "#706b88",

@@ -177,7 +177,7 @@
         "notificationsWarningIcon.foreground": "#f5e5b8",
         "notificationsInfoIcon.foreground": "#a8b5f5",
         "panel.background": "#1e1e2e",
-        "panel.border": "#00000000",
+        "panel.border": "#bba6f715",
         "panelTitle.activeBorder": "#00000000",
         "panelTitle.activeForeground": "#e0dfe8",
         "panelTitle.inactiveForeground": "#8e8a9e",
