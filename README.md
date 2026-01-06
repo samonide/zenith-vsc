@@ -10,9 +10,9 @@
 
 ## Variants
 
-**🌙 Dusk** · **☀️ Dawn** · **🌃 Twilight** · **🌲 Forest** · **🕹️ Retro** · **🌊 Ocean**
+**🌙 Dusk** · **☀️ Dawn** · **🌃 Twilight** · **� Midnight** · **🌲 Forest** · **🕹️ Retro** · **🌊 Ocean**
 
-Six carefully crafted themes from light to dark, warm to cool.
+Seven carefully crafted themes from light to dark, warm to cool.
 
 ## Installation
 
