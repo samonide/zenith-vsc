@@ -10,7 +10,7 @@
 
 ## Variants
 
-**🌙 Dusk** · **☀️ Dawn** · **🌃 Twilight** · **� Midnight** · **🌲 Forest** · **🕹️ Retro** · **🌊 Ocean**
+**🌙 Dusk** · **☀️ Dawn** · **🌃 Twilight** · **🌌 Midnight** · **🌲 Forest** · **⬛ Monochrome** · **🌊 Ocean**
 
 Seven carefully crafted themes from light to dark, warm to cool.
 
