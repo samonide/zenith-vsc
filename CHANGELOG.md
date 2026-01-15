@@ -2,6 +2,27 @@
 
 All notable changes to the Zenith Theme extension will be documented in this file.
 
+## [5.0.0] - 2026-01-15
+
+### 🎉 Major Update - Zenith v5.0.0
+
+**Breaking Changes:**
+- Complete refactorization of color system based on upstream Zenith v5.0.0
+- Removed **Zenith Midnight** variant
+- Added **Zenith Aurora** variant - soft northern lights theme with gentle teals, pinks, and purples
+
+### Changed
+- Rebuilt all themes using new unified color structure from Zenith v5.0.0
+- Improved color consistency across all variants
+- Enhanced semantic token mappings
+- Better syntax highlighting accuracy
+- Updated all UI colors to match new color palette
+
+### Technical
+- Created automated theme generator script for easier maintenance
+- Aligned with upstream Zenith color definitions
+- All themes now generated from `colors-*.json` source files
+
 ## [3.0.2] - 2026-01-01
 
 ### Improved

@@ -10,3 +10,4 @@ node_modules
 !CHANGELOG.md
 .github
 .eslintrc.json
+generate-themes.js
