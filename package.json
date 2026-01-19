@@ -2,7 +2,7 @@
     "name": "zenith-theme",
     "displayName": "Zenith Color Theme",
     "description": "A soothing, aesthetically pleasing colorscheme with soft pastels - designed for comfortable long coding sessions",
-    "version": "5.0.0",
+    "version": "5.0.1",
     "publisher": "TheSamonide",
     "icon": "icon.png",
     "author": {
@@ -76,6 +76,11 @@
                 "label": "Zenith Ocean",
                 "uiTheme": "vs-dark",
                 "path": "./themes/zenith-ocean.json"
+            },
+            {
+                "label": "Zenith Midnight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/zenith-midnight.json"
             }
         ]
     }
