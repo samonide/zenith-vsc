@@ -11,3 +11,4 @@ node_modules
 .github
 .eslintrc.json
 generate-themes.js
+update-themes.py

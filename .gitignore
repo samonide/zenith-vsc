@@ -7,3 +7,4 @@ node_modules/
 .vsce
 zenith-main
 generate-themes.js
+update-themes.py
