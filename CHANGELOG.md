@@ -2,6 +2,57 @@
 
 All notable changes to the Zenith Theme extension will be documented in this file.
 
+## [5.1.2] - 2026-01-29
+
+### 🎨 Improved
+- **Zenith Forest:** Significantly increased keyword contrast (20%+ improvement)
+  - Brightened accent green from #6ec095 → #8be5b8 for much better visibility
+  - Keywords now clearly stand out from background green tones
+  - Improved differentiation between syntax elements
+
+## [5.1.1] - 2026-01-29
+
+### 🎨 Improved
+- **Zenith Aurora:** Significantly improved contrast and readability
+  - Brightened foreground colors (#e5f2f5)
+  - Enhanced accent color visibility (#d0a5c0)
+  - Better keyword differentiation with cyan tones (#8fc5c3)
+  - Slightly lighter background for improved text clarity
+- **Zenith Forest:** Enhanced visibility and contrast
+  - Brightened foreground (#c8d7cf) for better readability
+  - More vibrant accent green (#6ec095)
+  - Improved blue tones (#75a0c0) for better syntax distinction
+  - Adjusted background lightness for reduced eye strain
+- Both themes now have much clearer keyword and syntax element visibility
+
+## [5.1.0] - 2026-01-29
+
+### 🐛 Bug Fixes
+- **CRITICAL:** Fixed text selection visibility - selected text is now clearly visible with distinct highlighting
+- Improved inactive selection contrast for better multi-cursor editing experience
+
+### ✨ UX Enhancements
+Refined the theme with modern improvements inspired by popular themes like Catppuccin and Tokyo Night:
+- **Editor:** Enhanced bracket matching with colorful bracket pair highlighting
+- **Editor:** Better cursor and active line number coloring using theme accent
+- **Editor:** Improved word highlight borders for better visual distinction
+- **Editor:** Enhanced find/replace match highlighting with visible borders
+- **Scrollbar:** More visible scrollbar with theme-colored active state
+- **Lists:** Better selection contrast and hover states throughout the UI
+- **Tabs:** Active tabs now use accent color for better distinction
+- **Tabs:** Added hover states and better unfocused tab styling
+- **Widgets:** Refined borders on autocomplete, hover widgets, and suggestions
+- **Widgets:** Added icon coloring in suggestion lists
+- **Indent Guides:** Active indent guide now uses theme accent color
+- **Peek View:** Enhanced with better borders and match highlighting
+- Overall improved contrast and visual hierarchy across all UI elements
+
+### 🎨 Visual Improvements
+- More consistent use of theme accent colors throughout the interface
+- Better visual feedback for interactive elements
+- Subtle shadows and borders for improved depth perception
+- Enhanced color consistency with the Zenith design philosophy
+
 ## [5.0.1] - 2026-01-15
 
 ### 🎉 Major Update - Zenith v5.0.1
