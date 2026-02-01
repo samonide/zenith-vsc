@@ -1,8 +1,8 @@
 {
     "name": "zenith-theme",
     "displayName": "Zenith Color Theme",
-    "description": "A soothing, aesthetically pleasing colorscheme with soft pastels - designed for comfortable long coding sessions",
-    "version": "5.1.2",
+    "description": "Premium color scheme collection with 8 stunning variants based on base46 architecture - soft pastels designed for comfortable long coding sessions",
+    "version": "6.0.0",
     "publisher": "TheSamonide",
     "icon": "icon.png",
     "author": {
@@ -34,7 +34,15 @@
         "soothing",
         "aesthetic",
         "purple",
-        "comfortable"
+        "comfortable",
+        "base46",
+        "base16",
+        "rose",
+        "twilight",
+        "aurora",
+        "ocean",
+        "forest",
+        "midnight"
     ],
     "galleryBanner": {
         "color": "#1e1e2e",
@@ -53,9 +61,9 @@
                 "path": "./themes/zenith-dawn.json"
             },
             {
-                "label": "Zenith Twilight",
+                "label": "Zenith Rosé",
                 "uiTheme": "vs-dark",
-                "path": "./themes/zenith-twilight.json"
+                "path": "./themes/zenith-rose.json"
             },
             {
                 "label": "Zenith Aurora",
@@ -68,9 +76,9 @@
                 "path": "./themes/zenith-forest.json"
             },
             {
-                "label": "Zenith Monochrome",
+                "label": "Zenith Zen",
                 "uiTheme": "vs-dark",
-                "path": "./themes/zenith-monochrome.json"
+                "path": "./themes/zenith-zen.json"
             },
             {
                 "label": "Zenith Ocean",

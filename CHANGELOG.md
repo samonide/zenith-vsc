@@ -2,6 +2,55 @@
 
 All notable changes to the Zenith Theme extension will be documented in this file.
 
+## [6.0.0] - 2026-02-01
+
+### 🎉 Major Release - Base46 Architecture
+
+This is a complete redesign of Zenith based on the **base46 color architecture**, bringing industry-standard theming and universal compatibility.
+
+### ✨ New Features
+- **Complete redesign** using base46 color system from the main Zenith repository
+- **Eight unique variants** - added Twilight (rose tones) replacing old color scheme
+- **Synchronized colors** with the main Zenith repo for cross-platform consistency
+- **Enhanced syntax highlighting** with better token differentiation using base_16 colors
+- **Panel transparency** - panels are now transparent with borders only on terminal (matching standard themes)
+- **Professional UI** - improved borders, selections, and visual hierarchy throughout
+- **Better text selection** - more visible selection highlighting across all themes
+- **Improved terminal** - better ANSI color mapping for accurate terminal rendering
+
+### 🎨 Theme Changes
+- 🌙 **Dusk** - Flagship theme with perfectly balanced soft pastels
+- ☀️ **Dawn** - Elegant light theme (fully redesigned)
+- ✨ **Aurora** - Ethereal teals and dreamy lavenders (enhanced)
+- 🌸 **Twilight** - NEW! Warm rose-tinted theme (formerly named Rosé in base repo)
+- 🌊 **Ocean** - Deep serene blues and aqua tones (enhanced)
+- 🌲 **Forest** - Natural vibrant greens (enhanced)
+- 🌑 **Midnight** - Pure deep darkness with high contrast (enhanced)
+- 🧘 **Monochrome** - Ultra-minimal monochrome (renamed from Zen for clarity)
+
+### 🔧 Technical Improvements
+- Automated theme generation from base46 JSON files
+- Consistent color mapping across all variants
+- Better adherence to VS Code theme guidelines
+- Improved semantic highlighting support
+- Enhanced diff editor colors
+- Better debug UI integration
+
+### 🎯 UI Enhancements
+- More consistent border usage (transparent panels with terminal border)
+- Better active/inactive state differentiation
+- Improved hover states throughout UI
+- Enhanced peek view styling
+- Better notification styling
+- Improved search result highlighting
+
+### 📝 Breaking Changes
+- Color values have changed across all themes due to base46 architecture
+- Panel backgrounds are now transparent (matching standard VS Code themes)
+- Some theme-specific colors may appear different but are more consistent
+
+---
+
 ## [5.1.2] - 2026-01-29
 
 ### 🎨 Improved
