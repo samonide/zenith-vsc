@@ -2,6 +2,11 @@
 
 All notable changes to the Zenith Theme extension will be documented in this file.
 
+## [6.0.3] - 2026-02-10
+
+### 🔧 Improvements
+- Fixed color issues in Zenith Forest theme
+
 ## [6.0.0] - 2026-02-01
 
 ### 🎉 Major Release - Base46 Architecture

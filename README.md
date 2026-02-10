@@ -4,7 +4,7 @@
 
 **Premium colorscheme collection for VS Code • Base46 Architecture**
 
-[![Version](https://img.shields.io/badge/v6.0.2-fab387?style=for-the-badge&labelColor=1e1e2e)](https://github.com/samonide/zenith-vsc)
+[![Version](https://img.shields.io/badge/v6.0.3-fab387?style=for-the-badge&labelColor=1e1e2e)](https://github.com/samonide/zenith-vsc)
 [![License](https://img.shields.io/badge/MIT-a6e3a1?style=for-the-badge&labelColor=1e1e2e)](LICENSE)
 
 [Website](https://samonide.github.io/zenith/) • [GitHub](https://github.com/samonide/zenith) • [Issues](https://github.com/samonide/zenith-vsc/issues)
